@@ -1,8 +1,8 @@
-### Hello there! I'm Kate Rodina 💛💙
+### Hi there 👋, Hello there! I'm Kate Rodina 💛💙
 #### I do UI and backend development
-I love coding!  I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I love to utilize modern technologies to create amazing useful projects that solves a problem and helps others.
 
-Skills: REACT JS /  JS / HTML / CSS
+Skills:  HTML / CSS / JS / REACT JS / NODEJS / POSTGRESQL / MONGODB 
 
 - 🔭 I’m currently working on this page. 
 
