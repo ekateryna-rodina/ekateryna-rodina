@@ -5,7 +5,7 @@ Since I took a part in development of enteprise software as well as consumer app
 
 My professional interests lie in the fields of blockchain governance and fintech 🔑, SaaS 💻, infomational security 🛡, public healthcare ❣️, education 📖 and environmental protection 🌏
 
-Skills:  HTML / CSS / JS / REACT JS / NODEJS / POSTGRESQL / MONGODB 
+Skills:  HTML / CSS / JS / REACT JS / REACT NATIVE / NODEJS / POSTGRESQL / MONGODB 
 
 
 
