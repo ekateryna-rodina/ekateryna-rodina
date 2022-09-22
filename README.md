@@ -7,7 +7,7 @@ My professional interests lie in the fields of blockchain governance and fintech
 
 Skills:  HTML / CSS / JS / REACT JS / NODEJS / POSTGRESQL / MONGODB 
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
