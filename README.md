@@ -1,11 +1,9 @@
 ### Hello there! I'm Kate Rodina 💛💙
-#### I full stack development
-I love to utilize modern technologies to create amazing useful projects that solve the problems and help others. 
-Since I took a part in development of enteprise software as well as consumer applications I have good understanding of all phases of software building life cycle. I am especially passioned about writing maintanable and clean codebase and using best practices with build compliance into the agile world.
+I'm a **full-stack** developer who loves to utilize modern development principles to create useful solutions to difficult problems and help others drive their own self-improvement through technology. In the last 10+ years, I've worked as both a solo engineer and with teams to develop both enteprise and consumer applications, and have good understanding of all phases of the software building life cycle. I am especially passionate about working with agile teams to write maintanable and clean codebases.
 
-My professional interests lie in the fields of blockchain governance and fintech 🔑, SaaS 💻, infomational security 🛡, public healthcare ❣️, education 📖 and environmental protection 🌏
+My professional interests include blockchain governance 🔗, fintech 🔑, Machine learning 🤖, infomational security 🛡, public healthcare ❣️, education 📖 and environmental protection 🌏
 
-Skills:  HTML / CSS / JS / REACT JS / REACT NATIVE / NODEJS / POSTGRESQL / MONGODB 
+Skills:  HTML / CSS / JS / TYPESCRIPT / REACT JS / REACT NATIVE / NODEJS / POSTGRESQL / MONGODB 
 
 
 
