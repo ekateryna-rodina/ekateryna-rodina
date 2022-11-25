@@ -5,7 +5,7 @@ In the last 9+ years, I've worked as both a solo engineer and on various teams t
 
 My professional interests include blockchain governance 🔗, fintech 🔑, machine learning 🤖, infomation security 🛡, public healthcare ❣️, education 📖 and environmental protection 🌏
 
-Skills:  HTML / CSS / JS / TYPESCRIPT / REACT JS / REACT NATIVE / NODEJS / POSTGRESQL / MONGODB 
+Skills:  C# / ASP.NET CORE / EF / MS SQL / POSTGRESQL / MONGODB / JS / TYPESCRIPT / REACT JS / HTML / CSS
 
 
 
